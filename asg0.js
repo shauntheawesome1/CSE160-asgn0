@@ -1,5 +1,7 @@
-// Hanette Le
-// asg0
+// Shaun Munshi
+// CRUZID smunshi
+// Assignment 0
+// asg0.js
 var ctx;
 var canvas;
 
